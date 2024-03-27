@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narzis Nahar</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh and available to do work online from anywhere</h3>
 
 - 🔭 I’m currently working on **Book-Review**
 
